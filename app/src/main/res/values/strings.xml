@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MC_Assignment1</string>
+
+    <string-array name="signDropDown">
+
+        <item>Buy</item>
+        <item>House</item>
+        <item>Fun</item>
+        <item>Hope</item>
+        <item>Arrive</item>
+        <item>Really</item>
+        <item>Read</item>
+        <item>Lip</item>
+        <item>Mouth</item>
+        <item>Some</item>
+        <item>Communicate</item>
+        <item>Write</item>
+        <item>Create</item>
+        <item>Pretend</item>
+        <item>Sister</item>
+        <item>Man</item>
+        <item>One</item>
+        <item>Drive</item>
+        <item>Perfect</item>
+        <item>Mother</item>
+
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>
