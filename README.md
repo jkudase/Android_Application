@@ -1,5 +1,4 @@
 # Android_Application
-Video Recording and Uploading
 
 This is an Android application that performs the following:
 
